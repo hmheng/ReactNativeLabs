@@ -1,0 +1,3 @@
+rootProject.name = 'RNWindowsCurrent'
+
+include ':app'
