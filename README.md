@@ -52,7 +52,11 @@ npm install @types/react-router-native
 Step X : Add following lines in your package.json<br/>
 
 ```
-npm install react-scripts react-dom react-native-web react-art react-router-native react-router-dom
+// package.json
+"scripts": {
+    "start-web": "react-scripts start",
+    "build-web": "react-scripts build"
+},
 ```
 
 Step X : Run Web<br/>
