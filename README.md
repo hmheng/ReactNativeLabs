@@ -11,7 +11,7 @@
 react-native init <projectname> --version react-native@0.59 --template Typescript
 ```
 
-** Windows **
+** Windows ** <br/>
 To Add RN for Windows<br/>
 Step 1 : In your RN project, add rnpm-plugin-windows package<br/>
 If you are using NPM, run<br/>
@@ -29,7 +29,7 @@ react-native windows
 ```
 <br/>
 
-** Web **
+** Web ** <br/>
 To Add RN for Web<br/>
 Step 1 : In your RN project, add dependencies react-scripts react-dom react-native-web react-art react-router-native react-router-dom<br/>
 
