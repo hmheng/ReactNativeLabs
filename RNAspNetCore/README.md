@@ -45,4 +45,4 @@ to <br />
                     spa.UseReactDevelopmentServer(npmScript: "start-web");
 ```
 
-9. Now, try to build and run on your Visual Studio. :)
+9. Now, try to build and run on your Visual Studio and continue development for your RN for mobile & windows. :)
