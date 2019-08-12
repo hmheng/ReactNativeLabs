@@ -46,3 +46,5 @@ to <br />
 ```
 
 9. Now, try to build and run on your Visual Studio and continue development for your RN for mobile & windows. :)
+
+10. You may deploy to Azure or other cloud provider too. [Example on Azure](https://rnaspnetcore.azurewebsites.net/)
