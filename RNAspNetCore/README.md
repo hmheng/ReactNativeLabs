@@ -1,3 +1,6 @@
+
+This project is to demonstrate that, just like other web project template, such as Angular, ReactJS, etc, a React Native for Web project can also be integrated into ASP.NET Core project while developers can continue developing their native project on mobile and Windows. 
+
 1. Create ASP.NET Core project with React.js template using Visual Studio. <br />
 
 2. At another directory, Initiate a RN project with the same project name that is used to create ASP.NET Core project in Step 1. <br />
