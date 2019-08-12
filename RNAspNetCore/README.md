@@ -5,7 +5,7 @@ This project is to demonstrate that, just like other web project template, such 
 
 2. At another directory, Initiate a RN project with the same project name that is used to create ASP.NET Core project in Step 1. <br />
 
-3. Follow steps of Add RN for Web to add RN Web to the RN project.
+3. Follow the steps of "Add RN for Web" mentioned in the [root repo](https://github.com/hmheng/ReactNativeLabs/) to add RN Web to the RN project
 
 4. Copy all RN files in the RN project to ClientApp of ASP.NET Core project.
 
